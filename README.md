@@ -94,7 +94,6 @@ To customize the portfolio for your own use:
 
 ## 📧 Contact
 
-- **Email**: neupaneraman189@gmail.com
 - **GitHub**: [@Rnx107](https://github.com/Rnx107)
 
 ## 📄 License
